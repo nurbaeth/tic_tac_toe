@@ -34,5 +34,5 @@ Player X wins!
 - ✅ Improve UI, add graphics.
 - ✅ Implement **online multiplayer** support.
 
-📢 **Contributions and PRs are welcome!** 🔥
+📢 **Contributions  and PRs are welcome!** 🔥
 
