@@ -1,4 +1,3 @@
-```python
 # Tic-Tac-Toe Game in Python
 
 def print_board(board):
@@ -41,6 +40,5 @@ def tic_tac_toe():
         else:
             print("Cell already taken, try again!")
 
-tic_tac_toe()
-```
-
+if __name__ == "__main__":
+    tic_tac_toe()
