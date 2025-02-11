@@ -2,7 +2,7 @@
 
 A simple **Tic-Tac-Toe** console game written in Python. Supports **2-player mode** without AI.
 
-## 📌 How to Play?
+## 📌 How to Pllay?
 1. Run the script `tic_tac_toe.py`.
 2. Players take turns entering **row and column numbers** (from 0 to 2).
 3. The first player to form a **line of 3 symbols** wins.
