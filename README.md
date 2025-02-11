@@ -8,7 +8,7 @@ A simple **Tic-Tac-Toe** console game written in Python. Supports **2-player mod
 3. The first player to form a **line of 3 symbols** wins.
 4. If the board is full with no winner, it's a **draw**.
 
-## 🛠 Installation and Running
+## 🛠 Installlation and Running
 ```bash
 # Clone the repository
 git clone https://github.com/USERNAME/tic-tac-toe.git
