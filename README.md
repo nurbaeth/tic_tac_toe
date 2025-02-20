@@ -29,7 +29,7 @@ python tic_tac_toe.py
 Player X wins!
 ```
 
-## 🚀 Possible Improvements
+## 🚀 Possible Improvements  
 - ✅ Add an **AI opponent** for solo play.
 - ✅ Improve UI, add graphics.
 - ✅ Implement **online multiplayer** support.
