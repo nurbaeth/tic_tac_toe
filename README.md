@@ -16,7 +16,7 @@ cd tic-tac-toe
  
 # Run the game
 python tic_tac_toe.py  
-``` 
+```  
 
 ## 🔥 Example Gameplay   
 ```
