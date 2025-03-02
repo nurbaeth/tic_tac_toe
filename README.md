@@ -27,7 +27,7 @@ python tic_tac_toe.py
   X |   | O  
 
 Player X wins!
-```
+``` 
 
 ## 🚀 Possible Improvements  
 - ✅ Add an **AI opponent** for solo play.
