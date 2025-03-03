@@ -18,7 +18,7 @@ cd tic-tac-toe
 python tic_tac_toe.py  
 ```  
 
-## 🔥 Example Gameplay   
+## 🔥 Example Gameplay    
 ```
   X | O | X   
   ---------
