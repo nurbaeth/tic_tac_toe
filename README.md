@@ -15,7 +15,7 @@ git clone https://github.com/USERNAME/tic-tac-toe.git
 cd tic-tac-toe  
  
 # Run the game
-python tic_tac_toe.py  
+python tic_tac_toe.py   
 ```  
 
 ## 🔥 Example Gameplay    
