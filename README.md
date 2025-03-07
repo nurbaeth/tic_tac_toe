@@ -19,7 +19,7 @@ python tic_tac_toe.py
 ```  
 
 ## 🔥 Example Gameplay    
-```
+``` 
   X | O | X   
   ---------
   O | X | O  
