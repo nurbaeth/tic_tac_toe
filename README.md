@@ -10,7 +10,7 @@ A simple **Tic-Tac-Toe** console game written in Python. Supports **2-player mod
 
 ## 🛠 Installlation and Running
 ```bash 
-# Clone the repository
+# Clone the repository 
 git clone https://github.com/USERNAME/tic-tac-toe.git
 cd tic-tac-toe  
   
